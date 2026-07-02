@@ -2,9 +2,9 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+dorpew;Full+Stack+Developer;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+lupiew;Full+Stack+Developer;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=dorpew&color=808080&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=lupiew&color=808080&style=flat-square)
 
 </div>
 
