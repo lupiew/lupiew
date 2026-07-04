@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=header"/>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+lupiew;Full+Stack+Developer;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EE82EE&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+lupiew;Backend+Developer;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=lupiew&color=808080&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=lupiew&color=EE82EE&style=flat-square)
 
 </div>
 
@@ -53,4 +53,4 @@
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=footer"/>
